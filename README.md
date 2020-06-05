@@ -33,3 +33,7 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](LICENSE.txt) licensed.
+
+## Acknowledgments
+- Microverse
+- Andy Leverenz’s brilliant Building a Twitter Clone screen casts.
